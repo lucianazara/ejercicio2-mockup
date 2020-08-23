@@ -1,0 +1,158 @@
+* {
+    font-family: 'Alata', sans-serif;
+}
+
+header {
+    width: 960px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+
+}
+
+#marca {
+    width: 300px;
+    height: 80px;
+    float: left;
+    font-size: 80%;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#barra_nav {
+    width: 600px;
+    height: 80px;
+    float: right;
+    font-size: 90%;
+}
+nav ul {
+    list-style:none;
+}
+
+nav ul li {
+    display: inline-block;
+    float: right;
+    text-shadow: 0px 10x black;
+    border-radius: 5px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    display: block;
+    padding: 26px 21px;
+    
+}
+
+nav ul li a:hover {
+    color: red; 
+    background-color: #fff5b5;
+}
+
+#img1 {
+    width: 350px;
+    height: 300px;
+    float: left;
+    background-color: black;
+    margin-bottom: 10px;
+
+}
+
+#presentacion {
+    width: 600px;
+    height: 300px;
+    float: right;
+    background-color: #f8ff3b;
+    margin-bottom: 10px;
+
+}
+
+#titulo-presentacion {
+    padding: 10px;
+    text-align: center;
+}
+#contenido-presentacion {
+    padding: 30px;
+    text-align: center,
+}
+#contenido-principal {
+    width: 250px;
+    height: 300px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: pink;
+}
+#contenido-segundo {
+    padding: 20px;
+}
+#section1 {
+    width: 960px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+#img2 {
+    width: 440px;
+    height: 300px;
+    margin-bottom: 10px;
+    background-color: blue;
+    float: left;
+
+}
+    
+#destacado {
+    width: 250px;
+    height: 300px;
+    margin-bottom: 10px;
+    background-color: salmon;
+    float: right;
+}
+
+#contenido-destacado {
+    padding: 40px;
+    text-align: center;
+    font-size: 200%;
+}
+    
+#complementario {
+    width: 960px;
+    height: 170px;
+    background-color: aqua; 
+    clear: both;
+    margin-bottom: 10px;
+}
+
+
+footer {
+    width: 960px;
+    height: 180px;
+    background-color:#ffba3b;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#datos {
+    width: 300px;
+    height: 180px;
+    float: left;
+}
+
+#contenido-footer {
+    padding: 20px;
+    margin-right: 40px;
+}
+
+#redes {
+    width: 350px;
+    height: 50px;
+    background-color: black;
+    float: right;
+}
+
+#redes-imagen {
+    width: 350px;
+    height: 180px;
+}
